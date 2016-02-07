@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 07 Feb 2016 20:24:00 GMT</pubDate>
+      <pubDate>Sun, 07 Feb 2016 20:36:00 GMT</pubDate>
 
-      <lastBuildDate>Sun, 07 Feb 2016 20:24:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 07 Feb 2016 20:36:00 GMT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.2.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 02/07/16 20:24:00</title>
+         <title>Weather Conditions at 02/07/16 20:36:00</title>
          <link></link>
          <description>
-           Outside temperature: 6.6&#176;C; 
-           Barometer: 984.7 mbar; 
-           Wind: 22 mph from 203&#176;; 
+           Outside temperature: 6.8&#176;C; 
+           Barometer: 984.1 mbar; 
+           Wind: 24 mph from 203&#176;; 
            Rain rate: 0.0 mm/hr; 
-           Inside temperature: 18.2&#176;C
+           Inside temperature: 18.1&#176;C
          </description>
-         <pubDate>Sun, 07 Feb 2016 20:24:00 GMT</pubDate>
+         <pubDate>Sun, 07 Feb 2016 20:36:00 GMT</pubDate>
 	     <geo:lat>52.5</geo:lat>
     	 <geo:long>0.009</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/07/16 20:24:00<br/>
-             Outside Temperature: 6.6&#176;C<br/>
-             Inside Temperature:  18.2&#176;C<br/>
+             Time:                02/07/16 20:36:00<br/>
+             Outside Temperature: 6.8&#176;C<br/>
+             Inside Temperature:  18.1&#176;C<br/>
              Wind Chill:          1.8&#176;C<br/>
-             Heat Index:          6.6&#176;C<br/>
-             Dewpoint:            5.1&#176;C<br/>
+             Heat Index:          6.8&#176;C<br/>
+             Dewpoint:            5.3&#176;C<br/>
              Humidity:            90%<br/>
-             Barometer:           984.7 mbar<br/>
-             Wind:                22 mph from 203&#176;<br/>
+             Barometer:           984.1 mbar<br/>
+             Wind:                24 mph from 203&#176;<br/>
              Rain Rate:           0.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/07/16 20:24:00</title>
+         <title>Daily Weather Summary as of 02/07/16 20:36:00</title>
          <link></link>
          <description>
 	        Min outside temperature: 6.4&#176;C at 19:42:44;
          	Max outside temperature: 7.4&#176;C at 18:18:00;
 	        Min inside temperature:  18.0&#176;C at 18:12:43;
 	        Max inside temperature:  18.2&#176;C at 18:37:00;
-	        Min barometer:           984.7 mbar at 20:23:02;
+	        Min barometer:           984.1 mbar at 20:36:00;
 	        Max barometer:           989.3 mbar at 18:12:43;
-            Max wind :               33 mph from 211&#176; at 19:58:04;
+            Max wind :               34 mph from 225&#176; at 20:29:04;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Sun, 07 Feb 2016 20:24:00 GMT</pubDate>
+         <pubDate>Sun, 07 Feb 2016 20:36:00 GMT</pubDate>
 	     <geo:lat>52.5</geo:lat>
     	 <geo:long>0.009</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,28 +66,28 @@
 	         Max Outside Temperature: 7.4&#176;C at 18:18:00<br/>
 	         Min Inside Temperature:  18.0&#176;C at 18:12:43<br/>
 	         Max Inside Temperature:  18.2&#176;C at 18:37:00<br/>
-	         Min Barometer:           984.7 mbar at 20:23:02<br/>
+	         Min Barometer:           984.1 mbar at 20:36:00<br/>
 	         Max Barometer:           989.3 mbar at 18:12:43<br/>
-             Max Wind :               33 mph from 211&#176; at 19:58:04<br/>
+             Max Wind :               34 mph from 225&#176; at 20:29:04<br/>
              Rain today:              0.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/07/16 20:24:00</title>
+         <title>Monthly Weather Summary as of 02/07/16 20:36:00</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 6.4&#176;C at 02/07/16 19:42:44;
          	Max outside temperature: 7.4&#176;C at 02/07/16 18:18:00;
 	        Min inside temperature:  18.0&#176;C at 02/07/16 18:12:43;
 	        Max inside temperature:  18.2&#176;C at 02/07/16 18:37:00;
-	        Min barometer:           984.7 mbar at 02/07/16 20:23:02;
+	        Min barometer:           984.1 mbar at 02/07/16 20:36:00;
 	        Max barometer:           989.3 mbar at 02/07/16 18:12:43;
-            Max wind :               33 mph from 211&#176; at 02/07/16 19:58:04;
+            Max wind :               34 mph from 225&#176; at 02/07/16 20:29:04;
             Rain total for month:    0.0 mm
          </description>
-         <pubDate>Sun, 07 Feb 2016 20:24:00 GMT</pubDate>
+         <pubDate>Sun, 07 Feb 2016 20:36:00 GMT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2016<br/>
@@ -95,28 +95,28 @@
 	         Min Outside Temperature: 6.4&#176;C at 02/07/16 19:42:44<br/>
 	         Max Inside Temperature:  18.2&#176;C at 02/07/16 18:37:00<br/>
 	         Min Inside Temperature:  18.0&#176;C at 02/07/16 18:12:43<br/>
-	         Min Barometer:           984.7 mbar at 02/07/16 20:23:02<br/>
+	         Min Barometer:           984.1 mbar at 02/07/16 20:36:00<br/>
 	         Max Barometer:           989.3 mbar at 02/07/16 18:12:43<br/>
-             Max Wind :               33 mph from 211&#176; at 02/07/16 19:58:04<br/>
+             Max Wind :               34 mph from 225&#176; at 02/07/16 20:29:04<br/>
              Rain total for month:    0.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/07/16 20:24:00</title>
+         <title>Yearly Weather Summary as of 02/07/16 20:36:00</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 6.4&#176;C at 02/07/16 19:42:44;
          	Max outside temperature: 7.4&#176;C at 02/07/16 18:18:00;
 	        Min inside temperature:  18.0&#176;C at 02/07/16 18:12:43;
 	        Max inside temperature:  18.2&#176;C at 02/07/16 18:37:00;
-	        Min barometer:           984.7 mbar at 02/07/16 20:23:02;
+	        Min barometer:           984.1 mbar at 02/07/16 20:36:00;
 	        Max barometer:           989.3 mbar at 02/07/16 18:12:43;
-            Max wind :               33 mph from 211&#176; at 02/07/16 19:58:04;
+            Max wind :               34 mph from 225&#176; at 02/07/16 20:29:04;
             Rain total for year:     0.0 mm
          </description>
-         <pubDate>Sun, 07 Feb 2016 20:24:00 GMT</pubDate>
+         <pubDate>Sun, 07 Feb 2016 20:36:00 GMT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2016<br/>
@@ -124,9 +124,9 @@
 	         Min Outside Temperature: 6.4&#176;C at 02/07/16 19:42:44<br/>
 	         Max Inside Temperature:  18.2&#176;C at 02/07/16 18:37:00<br/>
 	         Min Inside Temperature:  18.0&#176;C at 02/07/16 18:12:43<br/>
-	         Min Barometer:           984.7 mbar at 02/07/16 20:23:02<br/>
+	         Min Barometer:           984.1 mbar at 02/07/16 20:36:00<br/>
 	         Max Barometer:           989.3 mbar at 02/07/16 18:12:43<br/>
-             Max Wind :               33 mph from 211&#176; at 02/07/16 19:58:04<br/>
+             Max Wind :               34 mph from 225&#176; at 02/07/16 20:29:04<br/>
              Rain total for year:     0.0 mm<br/>
         </p>
       ]]></content:encoded>
