@@ -7,66 +7,66 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 17 Feb 2016 09:36:00 GMT</pubDate>
+      <pubDate>Wed, 17 Feb 2016 09:57:00 GMT</pubDate>
 
-      <lastBuildDate>Wed, 17 Feb 2016 09:36:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 17 Feb 2016 09:57:00 GMT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.2.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 02/17/16 09:36:00</title>
+         <title>Weather Conditions at 02/17/16 09:57:00</title>
          <link></link>
          <description>
-           Outside temperature: 3.3&#176;C; 
-           Barometer: 1016.9 mbar; 
-           Wind: 8 mph from 166&#176;; 
+           Outside temperature: 4.0&#176;C; 
+           Barometer: 1016.6 mbar; 
+           Wind: 11 mph from 173&#176;; 
            Rain rate: 0.0 mm/hr; 
-           Inside temperature: 17.8&#176;C
+           Inside temperature: 17.7&#176;C
          </description>
-         <pubDate>Wed, 17 Feb 2016 09:36:00 GMT</pubDate>
+         <pubDate>Wed, 17 Feb 2016 09:57:00 GMT</pubDate>
 	     <geo:lat>52.5</geo:lat>
     	 <geo:long>0.009</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/17/16 09:36:00<br/>
-             Outside Temperature: 3.3&#176;C<br/>
-             Inside Temperature:  17.8&#176;C<br/>
-             Wind Chill:          0.2&#176;C<br/>
-             Heat Index:          3.3&#176;C<br/>
-             Dewpoint:            0.8&#176;C<br/>
+             Time:                02/17/16 09:57:00<br/>
+             Outside Temperature: 4.0&#176;C<br/>
+             Inside Temperature:  17.7&#176;C<br/>
+             Wind Chill:          0.3&#176;C<br/>
+             Heat Index:          4.0&#176;C<br/>
+             Dewpoint:            1.4&#176;C<br/>
              Humidity:            83%<br/>
-             Barometer:           1016.9 mbar<br/>
-             Wind:                8 mph from 166&#176;<br/>
+             Barometer:           1016.6 mbar<br/>
+             Wind:                11 mph from 173&#176;<br/>
              Rain Rate:           0.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/17/16 09:36:00</title>
+         <title>Daily Weather Summary as of 02/17/16 09:57:00</title>
          <link></link>
          <description>
 	        Min outside temperature: 0.7&#176;C at 03:42:00;
-         	Max outside temperature: 3.4&#176;C at 09:35:54;
+         	Max outside temperature: 4.1&#176;C at 09:56:54;
 	        Min inside temperature:  16.6&#176;C at 07:03:00;
 	        Max inside temperature:  18.4&#176;C at 00:00:01;
-	        Min barometer:           1016.9 mbar at 09:35:00;
+	        Min barometer:           1016.5 mbar at 09:57:00;
 	        Max barometer:           1025.7 mbar at 00:02:00;
             Max wind :               18 mph from 218&#176; at 07:56:28;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Wed, 17 Feb 2016 09:36:00 GMT</pubDate>
+         <pubDate>Wed, 17 Feb 2016 09:57:00 GMT</pubDate>
 	     <geo:lat>52.5</geo:lat>
     	 <geo:long>0.009</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     17 Feb 2016<br/>
 	         Min Outside Temperature: 0.7&#176;C at 03:42:00<br/>
-	         Max Outside Temperature: 3.4&#176;C at 09:35:54<br/>
+	         Max Outside Temperature: 4.1&#176;C at 09:56:54<br/>
 	         Min Inside Temperature:  16.6&#176;C at 07:03:00<br/>
 	         Max Inside Temperature:  18.4&#176;C at 00:00:01<br/>
-	         Min Barometer:           1016.9 mbar at 09:35:00<br/>
+	         Min Barometer:           1016.5 mbar at 09:57:00<br/>
 	         Max Barometer:           1025.7 mbar at 00:02:00<br/>
              Max Wind :               18 mph from 218&#176; at 07:56:28<br/>
              Rain today:              0.0 mm<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/17/16 09:36:00</title>
+         <title>Monthly Weather Summary as of 02/17/16 09:57:00</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -4.1&#176;C at 02/16/16 06:28:01;
@@ -87,7 +87,7 @@
             Max wind :               43 mph from 242&#176; at 02/08/16 10:56:48;
             Rain total for month:    0.6 mm
          </description>
-         <pubDate>Wed, 17 Feb 2016 09:36:00 GMT</pubDate>
+         <pubDate>Wed, 17 Feb 2016 09:57:00 GMT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2016<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/17/16 09:36:00</title>
+         <title>Yearly Weather Summary as of 02/17/16 09:57:00</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -4.1&#176;C at 02/16/16 06:28:01;
@@ -116,7 +116,7 @@
             Max wind :               43 mph from 242&#176; at 02/08/16 10:56:48;
             Rain total for year:     0.6 mm
          </description>
-         <pubDate>Wed, 17 Feb 2016 09:36:00 GMT</pubDate>
+         <pubDate>Wed, 17 Feb 2016 09:57:00 GMT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2016<br/>
