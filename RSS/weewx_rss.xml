@@ -7,44 +7,44 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 22 Feb 2016 12:35:00 GMT</pubDate>
+      <pubDate>Mon, 22 Feb 2016 13:15:00 GMT</pubDate>
 
-      <lastBuildDate>Mon, 22 Feb 2016 12:35:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 22 Feb 2016 13:15:00 GMT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.2.1</generator>
       <ttl>1.000000 minute</ttl>
       
       <item>
-         <title>Weather Conditions at 02/22/16 12:35:00</title>
+         <title>Weather Conditions at 02/22/16 13:15:00</title>
          <link></link>
          <description>
-           Outside temperature: 7.0&#176;C; 
+           Outside temperature: 7.1&#176;C; 
            Barometer: 1007.4 mbar; 
-           Wind: 8 mph from 279&#176;; 
+           Wind: 16 mph from 307&#176;; 
            Rain rate: 0.0 mm/hr; 
            Inside temperature: 19.6&#176;C
          </description>
-         <pubDate>Mon, 22 Feb 2016 12:35:00 GMT</pubDate>
+         <pubDate>Mon, 22 Feb 2016 13:15:00 GMT</pubDate>
 	     <geo:lat>52.5</geo:lat>
     	 <geo:long>0.009</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/22/16 12:35:00<br/>
-             Outside Temperature: 7.0&#176;C<br/>
+             Time:                02/22/16 13:15:00<br/>
+             Outside Temperature: 7.1&#176;C<br/>
              Inside Temperature:  19.6&#176;C<br/>
-             Wind Chill:          4.6&#176;C<br/>
-             Heat Index:          7.0&#176;C<br/>
-             Dewpoint:            2.7&#176;C<br/>
-             Humidity:            74%<br/>
+             Wind Chill:          3.2&#176;C<br/>
+             Heat Index:          7.1&#176;C<br/>
+             Dewpoint:            0.6&#176;C<br/>
+             Humidity:            64%<br/>
              Barometer:           1007.4 mbar<br/>
-             Wind:                8 mph from 279&#176;<br/>
+             Wind:                16 mph from 307&#176;<br/>
              Rain Rate:           0.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/22/16 12:35:00</title>
+         <title>Daily Weather Summary as of 02/22/16 13:15:00</title>
          <link></link>
          <description>
 	        Min outside temperature: 5.9&#176;C at 07:43:00;
@@ -56,7 +56,7 @@
             Max wind :               26 mph from 252&#176; at 00:32:42;
             Rain today:              0.6 mm
          </description>
-         <pubDate>Mon, 22 Feb 2016 12:35:00 GMT</pubDate>
+         <pubDate>Mon, 22 Feb 2016 13:15:00 GMT</pubDate>
 	     <geo:lat>52.5</geo:lat>
     	 <geo:long>0.009</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/22/16 12:35:00</title>
+         <title>Monthly Weather Summary as of 02/22/16 13:15:00</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -4.1&#176;C at 02/16/16 06:28:01;
@@ -87,7 +87,7 @@
             Max wind :               43 mph from 242&#176; at 02/08/16 10:56:48;
             Rain total for month:    10.0 mm
          </description>
-         <pubDate>Mon, 22 Feb 2016 12:35:00 GMT</pubDate>
+         <pubDate>Mon, 22 Feb 2016 13:15:00 GMT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2016<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/22/16 12:35:00</title>
+         <title>Yearly Weather Summary as of 02/22/16 13:15:00</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -4.1&#176;C at 02/16/16 06:28:01;
@@ -116,7 +116,7 @@
             Max wind :               43 mph from 242&#176; at 02/08/16 10:56:48;
             Rain total for year:     10.0 mm
          </description>
-         <pubDate>Mon, 22 Feb 2016 12:35:00 GMT</pubDate>
+         <pubDate>Mon, 22 Feb 2016 13:15:00 GMT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2016<br/>
